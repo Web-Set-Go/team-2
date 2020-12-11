@@ -1,0 +1,28 @@
+body {
+    font-family: Montserrat;
+    font-weight: 400;
+    background-color: #31414C;
+  }
+  html {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+  }
+  * {
+    padding: 0px;
+    margin: 0px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+
+.v-scrollbar {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.logo{
+    width: 20px;
+}
+
+
+.sec2{
+    height: 1000px;
+}
